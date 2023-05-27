@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Code Academy Tasks\Code Academy Task 2.4 (MathHelper)\Code Academy Task 2.4 (MathHelper)\bin\Debug\net6.0\Code Academy Task 2.4 (MathHelper).exe
+C:\Users\user\Desktop\Code Academy Tasks\Code Academy Task 2.4 (MathHelper)\Code Academy Task 2.4 (MathHelper)\bin\Debug\net6.0\Code Academy Task 2.4 (MathHelper).deps.json
+C:\Users\user\Desktop\Code Academy Tasks\Code Academy Task 2.4 (MathHelper)\Code Academy Task 2.4 (MathHelper)\bin\Debug\net6.0\Code Academy Task 2.4 (MathHelper).runtimeconfig.json
+C:\Users\user\Desktop\Code Academy Tasks\Code Academy Task 2.4 (MathHelper)\Code Academy Task 2.4 (MathHelper)\bin\Debug\net6.0\Code Academy Task 2.4 (MathHelper).dll
+C:\Users\user\Desktop\Code Academy Tasks\Code Academy Task 2.4 (MathHelper)\Code Academy Task 2.4 (MathHelper)\bin\Debug\net6.0\Code Academy Task 2.4 (MathHelper).pdb
+C:\Users\user\Desktop\Code Academy Tasks\Code Academy Task 2.4 (MathHelper)\Code Academy Task 2.4 (MathHelper)\obj\Debug\net6.0\Code Academy Task 2.4 (MathHelper).csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Code Academy Tasks\Code Academy Task 2.4 (MathHelper)\Code Academy Task 2.4 (MathHelper)\obj\Debug\net6.0\Code Academy Task 2.4 (MathHelper).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Code Academy Tasks\Code Academy Task 2.4 (MathHelper)\Code Academy Task 2.4 (MathHelper)\obj\Debug\net6.0\Code Academy Task 2.4 (MathHelper).AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Code Academy Tasks\Code Academy Task 2.4 (MathHelper)\Code Academy Task 2.4 (MathHelper)\obj\Debug\net6.0\Code Academy Task 2.4 (MathHelper).AssemblyInfo.cs
+C:\Users\user\Desktop\Code Academy Tasks\Code Academy Task 2.4 (MathHelper)\Code Academy Task 2.4 (MathHelper)\obj\Debug\net6.0\Code Academy Task 2.4 (MathHelper).csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Code Academy Tasks\Code Academy Task 2.4 (MathHelper)\Code Academy Task 2.4 (MathHelper)\obj\Debug\net6.0\Code Academy Task 2.4 (MathHelper).dll
+C:\Users\user\Desktop\Code Academy Tasks\Code Academy Task 2.4 (MathHelper)\Code Academy Task 2.4 (MathHelper)\obj\Debug\net6.0\refint\Code Academy Task 2.4 (MathHelper).dll
+C:\Users\user\Desktop\Code Academy Tasks\Code Academy Task 2.4 (MathHelper)\Code Academy Task 2.4 (MathHelper)\obj\Debug\net6.0\Code Academy Task 2.4 (MathHelper).pdb
+C:\Users\user\Desktop\Code Academy Tasks\Code Academy Task 2.4 (MathHelper)\Code Academy Task 2.4 (MathHelper)\obj\Debug\net6.0\Code Academy Task 2.4 (MathHelper).genruntimeconfig.cache
+C:\Users\user\Desktop\Code Academy Tasks\Code Academy Task 2.4 (MathHelper)\Code Academy Task 2.4 (MathHelper)\obj\Debug\net6.0\ref\Code Academy Task 2.4 (MathHelper).dll
